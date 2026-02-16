@@ -1,4 +1,4 @@
-Git and Github:
+GIT AND GITHUB:
 - Git is the version control software
 - Github is the web service that uses Git 
 
@@ -21,3 +21,9 @@ BRANCH:
 FORKS AND PULL REQUESTS:
 - Forking a repo is duplicating a whole repo and only it being only for you to edit, you will have a whole replica of the repo and you can make changes to it and it wont affect your “MAIN” repo.
 - Say in our fork we really like one of the branches, we can move this branch into our MAIN repo by making a pull request 
+
+CLONING:
+- this is when you copy a repo from github onto your local pc/laptop so we can work on it offine, and we can PUSH this back onto git when we are done.
+
+
+
