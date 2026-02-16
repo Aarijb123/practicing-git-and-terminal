@@ -1,0 +1,23 @@
+Git and Github:
+- Git is the version control software
+- Github is the web service that uses Git 
+
+REPO:
+- This essentially keeps all the files
+- Tick initialize the repo with README
+- COMMIT → is equivalent to saving the file
+- We can add notes to the commit so we can see what we changed 
+- We can see the history of the file by pressing history 
+- HASH → unique identifier for each commit
+
+BRANCH:
+- Each commit has a linear path and unique identifier
+- The main branch is the MASTER branch
+- However say we want to try a completely different idea for our file, we can create a NEW BRANCH
+- Say we like the idea we have in our new branch, how can we move this new branch into our master branch?
+- There is a button called Compare & Pull Request → we are making a request to merge those changes in our new branch into our master branch
+- PULL REQUEST - this is a request to take some changes from a different branch and move it into another branch
+
+FORKS AND PULL REQUESTS:
+- Forking a repo is duplicating a whole repo and only it being only for you to edit, you will have a whole replica of the repo and you can make changes to it and it wont affect your “MAIN” repo.
+- Say in our fork we really like one of the branches, we can move this branch into our MAIN repo by making a pull request 
